@@ -1,0 +1,6 @@
+[submodule "portela-tools"]
+	path = portela-tools
+	url = https://github.com/PortelaTech/portela-tools.git
+[submodule "portela-freqtrade"]
+	path = portela-freqtrade
+	url = https://github.com/PortelaTech/portela-freqtrade.git
